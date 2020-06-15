@@ -3,6 +3,9 @@
 
 clippy is our small Office Assistant:tm: bot used on the [LuckPerms Discord](https://discord.gg/luckperms) to aid with support tasks like providing useful links to the wiki or reminding people to not tag staff members.
 
+## Fork
+Clippy forked & made in JDA with hopefully the same type of commands
+
 ## Commands
 A full list of commands can be found in [`modules/commands/list.json`](https://github.com/LuckPerms/clippy/blob/master/modules/commands/list.json) or by using `!help` in Discord.
 
